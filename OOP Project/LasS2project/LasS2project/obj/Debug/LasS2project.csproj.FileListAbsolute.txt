@@ -1,0 +1,15 @@
+C:\Users\samue\source\repos\LasS2project\LasS2project\bin\Debug\LasS2project.exe.config
+C:\Users\samue\source\repos\LasS2project\LasS2project\bin\Debug\LasS2project.exe
+C:\Users\samue\source\repos\LasS2project\LasS2project\bin\Debug\LasS2project.pdb
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form0.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Properties.Resources.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.exe
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.pdb
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form1_2.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form3.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form4.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form5.resources
+C:\Users\samue\source\repos\LasS2project\LasS2project\obj\Debug\LasS2project.Form6.resources
